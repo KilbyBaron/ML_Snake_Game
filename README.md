@@ -18,7 +18,8 @@ The training results after 500 epochs are below. The model does not improve very
 To evaluate the competency of the model trained based on my own gameplay, I made the model play 100 games of Snake and recorded its scores, with every fruit being worth 1 point. After 100 trials, the model’s average score was 7.25 and its average length was 22.75. To put this score in perspective, I put myself through the same test; after 100 games my average score was only 5.42 and my high score was 13. Therefore, the AI trained off of my own gameplay is better at snake than I am. Most of my own crashes are due to timing mistakes, whereas the AI tends to crash because it corners itself. I believe that the AI performs better than me because my timing mistakes are infrequent enough that they did not get learned by the model.
 When I play the game, I tend to weave back and forth and make big arcs to avoid cornering myself. Interestingly, the AI seems to have adopted these strategies as well, and I suspect this helps it survive for longer. I included some screenshots of the AI’s gameplay below.
 
-
+ 
+![alt text](https://github.com/KilbyBaron/ML_Snake_Game/blob/master/images/results1.png)
 
 
 
